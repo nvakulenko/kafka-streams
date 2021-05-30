@@ -6,7 +6,7 @@ Language: Java
 
 Input data set is a reddit csv file: 
 - size is 104,9 mb
-- records number is 
+- records number is approximatelly 420 000
 
 Components:
 - Zookeeper
